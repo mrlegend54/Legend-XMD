@@ -8,19 +8,19 @@
 ---
 
 ```
-PANHWAR-MD BY ANSAR-PANHWAR 👑
+LEGEND-MD BY MUNEEB ALI
 ```
 ---
 
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰PANHWAR-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰LEGEND-XMD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
 
 ---
 ### 1. Fork This Repository
 
 **Start by forking this repository to your own GitHub account. Click the button below to fork:**
 
-  <a href="https://github.com/ANSAR-PANHWAR/PANHWAR-MD/fork"><img title="PANHWAR-MD" src="https://img.shields.io/badge/FORK-PANHWAR MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/mrlegend54/LEGEND-XMD/fork"><img title="LEGEND-MD" src="https://img.shields.io/badge/FORK-LEGEND MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -28,7 +28,7 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 
 > **Get Pair Code (Session ID)**
 
-<a href='https://ansarpair.onrender.com' target="_blank">
+<a href='https://aNsarpair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -43,7 +43,7 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 ---
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new-app?template=https://github.com/ANSAR-PANHWAR/PANHWAR-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=250 height=45/p></a>
+<a href='https://dashboard.heroku.com/new-app?template=https://github.com/mrlegend54/LEGEND-XMD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=250 height=45/p></a>
 
 ---
 
