@@ -1,12 +1,12 @@
 {
-  "name": "PANHWAR-MD",
+  "name": "LEGEND-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Ansar Panhwar",
+  "description": "A WhatsApp Bot Created By Mr Legend",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name PANHWAR-MD",
-    "stop": "pm2 stop PANHWAR-MD",
-    "restart": "pm2 restart PANHWAR-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name LEGEND-MD",
+    "stop": "pm2 stop LEGEND-MD",
+    "restart": "pm2 restart LEGEND-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
